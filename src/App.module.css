@@ -1,0 +1,14 @@
+.random {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+
+}
+
+.even {
+  color: green;
+}
+
+.odd {
+  color: red;
+}
